@@ -1,0 +1,6 @@
+module Pods_Nav {
+  umbrella header "Pods-Nav-umbrella.h"
+
+  export *
+  module * { export * }
+}
